@@ -3,4 +3,4 @@
   - If I met difficult problems to solve, I would storage that problem's solving procedure in here.
 
 ## 3052
-  - This problem involve useful list sorting module
+  - This problem involve useful list sorting function 'append', 'set'.
