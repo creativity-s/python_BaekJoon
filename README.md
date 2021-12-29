@@ -1,4 +1,3 @@
 # python_BaekJoon
-
-  - This Repository was made for practice python during solve baekjoon problems.
-  - If I have problems when I coding, find it and advised from this repository. 
+  - This repository was made for python practice.
+  - If I met difficult problems to solve, I would storage that problem's solving procedure in here.
