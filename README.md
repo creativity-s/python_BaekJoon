@@ -1,6 +1,6 @@
 # python_BaekJoon
-  - This repository was made for python practice.
-  - If I met difficult problems to solve, I would storage that problem's solving procedure in here.
+  - ## This repository was made for python practice.
+  - ## If I met difficult problems to solve, I would storage that problem's solving procedure in here.
 
 ## 3052
   - 이 문제는 list를 다룰때에 유용한 'append', 'set' 함수를 포함하고 있다.
