@@ -15,4 +15,5 @@
 ## 10809
   - ##### 문자열의 find 함수와 ASCII코드를 응용한 코드이다.
   - ##### alphabet = list(range(97,123))  # a to z ASCII CODE
-  - ##### word.find(chr(alphabet)) # word(list) char의 위치가 어디인지 return해준다(없으면 -1), chr() 괄호안의 ASCII코드에 해당하는 문자를 return해준다.
+  - ##### word.find(x) # word(list)안에서 x의 index 가 어디인지 return해준다(없으면 -1)
+  - ##### chr(alphabet) #chr() 괄호안의 ASCII코드에 해당하는 문자를 return해준다.
