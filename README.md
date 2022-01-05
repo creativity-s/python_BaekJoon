@@ -18,3 +18,7 @@
   - ##### alphabet = list(range(97,123))  # a to z ASCII CODE
   - ##### word.find(x) # (list)word안에서 x의 index 가 어디인지 return해준다(없으면 -1)
   - ##### chr(alphabet) #chr() 괄호안의 ASCII코드에 해당하는 문자를 return해준다.
+
+## 2941_replace
+  - ##### replace함수를 사용한 코드
+  - ##### replace - input값과 같은 값을 찾아 지정해준 값(*)으로 변경해준다.
